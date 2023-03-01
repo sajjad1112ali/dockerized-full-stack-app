@@ -143,6 +143,7 @@ export default {
   color: white;
   padding: 10px 0px;
   font-family: sans-serif;
+  margin-top: 1.5rem;
 }
 
 /* more link */
